@@ -7,7 +7,7 @@ The current version of this whitepaper is v0.04.
 ```
 This whitepaper is non-static and evolves over time as errors get corrected, new concepts and
 technologies are incorporated, changes to governance protocols are made.
-Old versions of the whitepaper are archived and hashed, to provide an immutable history of the
+Old versions of the whitepaper are archived and hashed, to provide an immutable history .
 ```
 #### We proudly open source the whitepaper's evolution for all to see.
 
