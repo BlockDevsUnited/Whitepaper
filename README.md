@@ -36,7 +36,7 @@ Onboarding Organizers
 BDU Membership
 BDU Governance
 ```
-**Part 2 - DevCash: Cash for the Developer Economy**
+**Part 2 - Devcash: Cash for the Developer Economy**
 
 ```
 Overview
@@ -102,10 +102,8 @@ The goals of the meetups are:
 To apply as an organizer for Blockchain Developers United, individuals are expected to commit to
 hosting a meetup at least once a month. Each meetup community may determine aspects of its own
 
-## Meetups
-
 Meetups are classified by difficulty: Beginner, Intermediate, and Advanced. A typical BDU meetup
-consists of an introductory presentation followed by a 1-2 hour long tutorial.
+consists of an introductory presentation followed by a 1-2 hour long tutorial. 
 
 The ideal tutorial is clear, straightforward, and demonstrates unambiguously a step by step approach
 to achieving an end result. All tutorials fall within this basic framework:
@@ -115,8 +113,6 @@ to achieving an end result. All tutorials fall within this basic framework:
 ● Step-by-step tutorial
 ● Evaluate results and answer questions
 ```
-**Hands On Tutorials:** ​ Formal presentations on specific developer tutorials. They must involve
-hands-on training.
 
 Here’s a simple example:
 
@@ -233,8 +229,8 @@ specification. These words are often capitalized. This document defines such wor
 be interpreted only on the Devcash Bounty Marketplace. The mechanism of this interpretation is
 enforced by the flow of the user experience.
 
-The key words "MUST", "REQUIRED", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and
-"OPTIONAL" are to be interpreted as described:
+The key words **"MUST"**, **"REQUIRED"**, **"SHOULD"**, **"SHOULD NOT"**, **"RECOMMENDED"**, **"MAY"**, and
+**"OPTIONAL"** are to be interpreted as described:
 
 **1** ​ **“MUST”** ​/ ​ **"REQUIRED"** ​ means that there is an absolute required condition of the agreement.
 
@@ -255,14 +251,10 @@ must be agreed upon by both parties prior to agreeing upon the terms.
 include the item because it appears pertinent to the deliverable, or because it enhances the product
 
 **Guidance in the use of these Imperatives**
-Imperatives of the type defined in this document define the conditional operands of Service Execution
+Imperatives of the type defined in this document advise on the conditional operands of Service Execution
 Agreements on the Devcash Bounty Marketplace.
 
-Goal:
-
-Description:
-
-Wordbank ​- to be used as a benchmark for providing context
+Wordbank ​- to be used in assisting the user in defining their stated objectives
 
 ```
 ● Add Create Build Make Improve
@@ -285,11 +277,12 @@ Wordbank ​- to be used as a benchmark for providing context
 ```
 ● Complete Provide Solve Support Use Write
 ```
-Example:
 
-Goal: ​Enhance WsProvider To Support Multiple Endpoints for Gitcoin
+An example of this approach to describing stated objectives:
 
-Description: ​Currently ​WsProvider​ only takes one endpoint, and incase this particular node
+**Goal**: ​Enhance WsProvider To Support Multiple Endpoints for Gitcoin
+
+**Description**: ​Currently ​WsProvider​ only takes one endpoint, and incase this particular node
 is down, it will lose access to the network. While it is possible to detect disconnect event and
 create a new api instance, the existing subscription will be lost.
 
@@ -305,6 +298,7 @@ Provide appropriate unit tests.
 ##### SHOULD
 
 Write using ​web3.js​ library
+
 Create with ​socket.io
 
 ##### MUST NOT
@@ -455,14 +449,13 @@ interface to replace Torus Wallet confirmations via pop ups.
 ```
 ● Share on twitter prompt after posting or hunting a bounty.
 ```
-#### ● Export CSV function to allow users to get a complete copy of their transaction
-
-#### history on the platform.
-
+```
+● Export CSV function to allow users to get a complete copy of their transaction history on the platform.
+```
 ```
 ● Improvements to Home Page. Additional info re: using the platform
-○ 4 animation user story like on paypal.com landing
-○ Add logos of our partners at the bottom of Home Page
+● 4 animation user story like on paypal.com landing
+● Add logos of our partners at the bottom of Home Page
 ```
 ```
 ● Ability to switch wallets easily, this will sign you out of your current wallet and prompt
@@ -478,15 +471,15 @@ most of the available space on the user interface and include two panels(like a 
 The left panel will include the submission details. Right panel allows you to type in
 submission response
 ```
-#### ● Creation of Widget for Devcash Bounty Platform - ​ within 3 months
-
+```
+● Creation of Widget for Devcash Bounty Platform - ​ within 3 months
+```
 ```
 See:​https://vuidget.danajanoskova.sk/
 https://github.com/DJanoskova/Vuidget
 a) Widget can be paired to an ethereum address(the one that the third party is
 posting bounties with)
 ```
-
 ```
 b) Displays all available bounties by the poster. It can be "hunted" directly on website
 of the 3rd party. Bounties can be reviewed and submissions can be made. Bounty
@@ -494,7 +487,9 @@ and submissions status, confirmation, approval can all be seen within the widget
 The point being that Bounty Creation and Management can be securely managed
 outside of the marketplace.
 ```
-#### Back End Development
+```
+
+### Back End Development
 
 ```
 ● Making Native Modules “Less Complicated” by writing Web Assembly Modules and
@@ -504,10 +499,8 @@ Runtime. - ​ within next 3 months
 ```
 ● Implement an actor model allowing webassembly functions to spawn other functions
 and send data to each other, and have each function (a webassembly binary) safely
-sandboxed and allow for multi-tenancy.
+sandboxed and allow for multi-tenancy. ​ within next 3 months
 ```
-- ​ **within next 3 months**
-
 ```
 ● Developing a DappNode package - ​ within next 3 months
 ```
@@ -523,6 +516,7 @@ experience on a project that is similar.
 See:​https://towardsdatascience.com/github-recommender-system-python-c8ff64dc
 f4​ ​ ​- ​ within next 6 months
 ```
+
 #### Layer 2 scaling solution - Evaluation
 
 ```
@@ -538,5 +532,6 @@ Ethereum in Solidity. ​ ​- ​ within next 6 months
 ● Matic Network - Strong Option, ready for production, but not as powerful as ZkSync.
 Notes: Adapted version of Plasma framework that provides a solution for faster and
 extremely low-cost transactions with finality on the main chain(ethereum).
-```
-- ​ **within next 3 months**
+```​ **within next 3 months**
+
+- 
