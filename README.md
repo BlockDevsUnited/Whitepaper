@@ -21,12 +21,11 @@ After many years of experience we have found nothing which has contributed more 
 software engineer than the willingness to share what they have learned. We are people who would
 normally not mix. But there exists among us a fellowship, a friendliness, and an understanding which
 enriches our vocation and personal lives. None of us make a sole vocation of this work. We do not
-favour a particular convention or approach towards software development.
+favour a particular convention or approach towards software development. However geographically distributed we may be, together in our ambitions
+we are united.
 
 
 #### Table of Contents
-
-**Abstract**
 
 **Part 1 - Blockchain Developers United Meetups**
 
@@ -64,16 +63,8 @@ the blockchain ecosystem, beginning at the center and pushing out towards the pe
 Meetups, Mentorships and Bounties are the three pillars of our organization. The meetups bring
 together developers of varying technical skill to learn, share and develop technical skills. Our
 mentorship programs aim to provide an advancing path for developers to earn a living in the space.
-The bounty platform provides an interface for our developers to tackle new problems in the space and
+The bounty platform provides an interface for our developers to tackle new problems and
 earn at the same time.
-
-In order to vitalize and motivate a new resource of the developer economy, we have created a
-cryptocurrency called Devcash (DEV).
-BDU aspires to be a benchmark towards the emergence of organizations founded on Decentralized
-Autonomous Cooperation (DAC).
-To contribute to this new economy of developers, we created Devcash (DEV), which is to be used to
-support the growth of BDU. However geographically distributed we may be, together in our ambitions
-we are united.
 
 Blockchain Developers United(BDU) began with a single Meetup Group in Toronto, Canada, which
 focused on providing hands-on workshops on programming blockchain applications. The first meetup
@@ -82,7 +73,9 @@ must provide attendees with hands-on programming experience. Our modus operandi 
 hands on coding, ranging from step-by-step instructions in working code examples to more complex
 concepts.
 
-Today, BDU spans a community across the globe with Meetup leaders.
+## Meetups
+
+Today, Blockchain Developers United spans a community across the globe with Meetup leaders.
 
 The following is a list of all BDU based meetups:
 
@@ -96,19 +89,18 @@ The following is a list of all BDU based meetups:
 - Delhi, India
 
 The goals of the meetups are:
-● To provide hands on developer training
-● To train local blockchain developer talent
-● To collaborate on projects small and large
-● To provide a meeting place and open learning environment
-● To provide community testing and debugging
-● To provide the community access to commonly used developer resources
-● To connect developers with teams looking for talent
+
+- To provide hands on developer training
+- To train local blockchain developer talent
+- To collaborate on projects small and large
+- To provide a meeting place and open learning environment
+- To provide community testing and debugging
+- To provide the community access to commonly used developer resources
+- To connect developers with teams looking for talent
 
 
 To apply as an organizer for Blockchain Developers United, individuals are expected to commit to
 hosting a meetup at least once a month. Each meetup community may determine aspects of its own
-
-#### governance, as well as influence decisions over the governance of BDU as a whole.
 
 ## Meetups
 
@@ -127,7 +119,7 @@ to achieving an end result. All tutorials fall within this basic framework:
 hands-on training.
 
 Here’s a simple example:
-====================================
+
 **Tutorial name:** ​Export private key from Bitcoin-Qt
 **Goal:** ​To export a private key from your Bitcoin-Qt / Bitcoin Core client:
 **Dependencies:** ​Bitcoin Core Wallet
@@ -163,8 +155,7 @@ forked and modified.
 Once we decide to add a potential meetup to the BDU network, we have a simple set of protocols to
 onboard organizers of new meetups. The onboarding process includes online introductions of new
 organizers to existing organizers, sharing an onboarding package, guidance on how to run developer
-meetups, allocating a specified allotment of Devcash, and adding the new meetup to the BDU meetup
-list.
+meetups, and adding the new meetup to the BDU meetup list.
 
 ### BDU Membership
 
@@ -188,18 +179,31 @@ grow during the formative stages of the platform and its services.
 
 ### Overview
 
-Devcash is a cryptocurrency which allocates its distribution to support the Blockchain Developes
-United network. Two important aspects of Devcash are its utility and distribution. Good utility gives
+Blockchain Developers United aspires to be a benchmark towards the emergence of organizations founded on Decentralized
+Autonomous Cooperation (DAC). To ingratiate this new economy of developers, we created Devcash (DEV), which is to be used to
+support the growth of BDU. Devcash is a cryptocurrency which allocates its distribution to support the Blockchain Developes
+United network. Two important aspects of Devcash are its utility and distribution. Good utility gives 
 people ways to use Devcash and a reason to hold it, and good distribution spreads it to those who
 contribute the most as well as those who would have the greatest use for it.
 We also use Devcash to promote learning and teaching blockchain development at BDU. Devcash
 incentivizes individuals to share technical knowledge and conversely for individuals to strive to learn
 and achieve competency, as we believe there is no better way to learn than to teach. We encourage
 the reduction of barriers to entry in learning blockchain technology. This is achieved implicitly in
-
-
 Devcash’s earning and spending structure. It encourages individuals to take their education and
 involvement to the next level, whatever that may look like for them.
+
+**Earn Devcash**
+
+Developers can earn DevCash by:
+
+```
+● Participating in our community. Answering questions on the forum (under active development)
+and being voted the most useful response
+● Posting bounties
+● Completing bounties
+● Hosting meetups
+● Attending meetups
+```
 
 Unique utilities or discounts can be made available to those who have earned a reputation on the
 network. The value of Devcash may increase for those with higher reputations. Therefore, Devcash’s
@@ -222,18 +226,6 @@ once the request has been fulfilled.
 Some bounty issuers may not want to share their project details publicly for various reasons. In that
 case, bounties can be set to private.
 
-**Earn Devcash**
-
-Developers can earn DevCash by:
-
-```
-● Participating in our community. Answering questions on the forum (under active development)
-and being voted the most useful response
-● Posting bounties
-● Completing bounties
-● Hosting meetups
-● Attending meetups
-```
 ### Standards Track Adherence
 
 In many standards track documents several words are used to signify the requirements in the
@@ -244,15 +236,15 @@ enforced by the flow of the user experience.
 The key words "MUST", "REQUIRED", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and
 "OPTIONAL" are to be interpreted as described:
 
-**1** ​**. “MUST”** ​/ ​ **"REQUIRED"** ​ means that there is an absolute required condition of the agreement.
+**1** ​ **“MUST”** ​/ ​ **"REQUIRED"** ​ means that there is an absolute required condition of the agreement.
 
-**2** ​**. “SHOULD”** ​means that there is a required condition of the agreement. There might exist valid
+**2** ​ **“SHOULD”** ​means that there is a required condition of the agreement. There might exist valid
 reasons in particular circumstances to ignore this particular item, but this is of no consequence to the
 agreement.
 
-
 **3. "RECOMMENDED"** ​- means that there is a preference for a condition to be fulfilled but not an
 absolute requirement.
+
 **4. “MUST NOT”** ​ means that there is an absolute prohibited requirement as a condition of the
 agreement.
 **5. "NOT RECOMMENDED"** ​means that there may exist valid reasons in particular circumstances
@@ -264,7 +256,7 @@ include the item because it appears pertinent to the deliverable, or because it 
 
 **Guidance in the use of these Imperatives**
 Imperatives of the type defined in this document define the conditional operands of Service Execution
-Agreements of the Devcash Bounty Marketplace.
+Agreements on the Devcash Bounty Marketplace.
 
 Goal:
 
@@ -313,19 +305,15 @@ Provide appropriate unit tests.
 ##### SHOULD
 
 Write using ​web3.js​ library
-
 Create with ​socket.io
 
 ##### MUST NOT
-
 Use ​a client and server side transport API based on ​WebRTC​ & ​WebSocket
 
 ##### NOT RECOMMENDED
-
 Complete Websocket server written in C
 
 ##### MAY/OPTIONAL
-
 Implement ​websocket-as-promised​ - Promise-based W3C WebSocket wrapper: allows to
 use promises when connecting, disconnecting and messaging with WebSocket server
 
