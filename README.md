@@ -21,12 +21,11 @@ After many years of experience we have found nothing which has contributed more 
 software engineer than the willingness to share what they have learned. We are people who would
 normally not mix. But there exists among us a fellowship, a friendliness, and an understanding which
 enriches our vocation and personal lives. None of us make a sole vocation of this work. We do not
-favour a particular convention or approach towards software development.
+favour a particular convention or approach towards software development. However geographically distributed we may be, together in our ambitions
+we are united.
 
 
 #### Table of Contents
-
-**Abstract**
 
 **Part 1 - Blockchain Developers United Meetups**
 
@@ -37,7 +36,7 @@ Onboarding Organizers
 BDU Membership
 BDU Governance
 ```
-**Part 2 - DevCash: Cash for the Developer Economy**
+**Part 2 - Devcash: Cash for the Developer Economy**
 
 ```
 Overview
@@ -64,16 +63,8 @@ the blockchain ecosystem, beginning at the center and pushing out towards the pe
 Meetups, Mentorships and Bounties are the three pillars of our organization. The meetups bring
 together developers of varying technical skill to learn, share and develop technical skills. Our
 mentorship programs aim to provide an advancing path for developers to earn a living in the space.
-The bounty platform provides an interface for our developers to tackle new problems in the space and
+The bounty platform provides an interface for our developers to tackle new problems and
 earn at the same time.
-
-In order to vitalize and motivate a new resource of the developer economy, we have created a
-cryptocurrency called Devcash (DEV).
-BDU aspires to be a benchmark towards the emergence of organizations founded on Decentralized
-Autonomous Cooperation (DAC).
-To contribute to this new economy of developers, we created Devcash (DEV), which is to be used to
-support the growth of BDU. However geographically distributed we may be, together in our ambitions
-we are united.
 
 Blockchain Developers United(BDU) began with a single Meetup Group in Toronto, Canada, which
 focused on providing hands-on workshops on programming blockchain applications. The first meetup
@@ -82,7 +73,9 @@ must provide attendees with hands-on programming experience. Our modus operandi 
 hands on coding, ranging from step-by-step instructions in working code examples to more complex
 concepts.
 
-Today, BDU spans a community across the globe with Meetup leaders.
+## Meetups
+
+Today, Blockchain Developers United spans a community across the globe with Meetup leaders.
 
 The following is a list of all BDU based meetups:
 
@@ -96,24 +89,21 @@ The following is a list of all BDU based meetups:
 - Delhi, India
 
 The goals of the meetups are:
-● To provide hands on developer training
-● To train local blockchain developer talent
-● To collaborate on projects small and large
-● To provide a meeting place and open learning environment
-● To provide community testing and debugging
-● To provide the community access to commonly used developer resources
-● To connect developers with teams looking for talent
+
+- To provide hands on developer training
+- To train local blockchain developer talent
+- To collaborate on projects small and large
+- To provide a meeting place and open learning environment
+- To provide community testing and debugging
+- To provide the community access to commonly used developer resources
+- To connect developers with teams looking for talent
 
 
 To apply as an organizer for Blockchain Developers United, individuals are expected to commit to
 hosting a meetup at least once a month. Each meetup community may determine aspects of its own
 
-#### governance, as well as influence decisions over the governance of BDU as a whole.
-
-## Meetups
-
 Meetups are classified by difficulty: Beginner, Intermediate, and Advanced. A typical BDU meetup
-consists of an introductory presentation followed by a 1-2 hour long tutorial.
+consists of an introductory presentation followed by a 1-2 hour long tutorial. 
 
 The ideal tutorial is clear, straightforward, and demonstrates unambiguously a step by step approach
 to achieving an end result. All tutorials fall within this basic framework:
@@ -123,11 +113,9 @@ to achieving an end result. All tutorials fall within this basic framework:
 ● Step-by-step tutorial
 ● Evaluate results and answer questions
 ```
-**Hands On Tutorials:** ​ Formal presentations on specific developer tutorials. They must involve
-hands-on training.
 
 Here’s a simple example:
-====================================
+
 **Tutorial name:** ​Export private key from Bitcoin-Qt
 **Goal:** ​To export a private key from your Bitcoin-Qt / Bitcoin Core client:
 **Dependencies:** ​Bitcoin Core Wallet
@@ -163,8 +151,7 @@ forked and modified.
 Once we decide to add a potential meetup to the BDU network, we have a simple set of protocols to
 onboard organizers of new meetups. The onboarding process includes online introductions of new
 organizers to existing organizers, sharing an onboarding package, guidance on how to run developer
-meetups, allocating a specified allotment of Devcash, and adding the new meetup to the BDU meetup
-list.
+meetups, and adding the new meetup to the BDU meetup list.
 
 ### BDU Membership
 
@@ -188,18 +175,31 @@ grow during the formative stages of the platform and its services.
 
 ### Overview
 
-Devcash is a cryptocurrency which allocates its distribution to support the Blockchain Developes
-United network. Two important aspects of Devcash are its utility and distribution. Good utility gives
+Blockchain Developers United aspires to be a benchmark towards the emergence of organizations founded on Decentralized
+Autonomous Cooperation (DAC). To ingratiate this new economy of developers, we created Devcash (DEV), which is to be used to
+support the growth of BDU. Devcash is a cryptocurrency which allocates its distribution to support the Blockchain Developes
+United network. Two important aspects of Devcash are its utility and distribution. Good utility gives 
 people ways to use Devcash and a reason to hold it, and good distribution spreads it to those who
 contribute the most as well as those who would have the greatest use for it.
 We also use Devcash to promote learning and teaching blockchain development at BDU. Devcash
 incentivizes individuals to share technical knowledge and conversely for individuals to strive to learn
 and achieve competency, as we believe there is no better way to learn than to teach. We encourage
 the reduction of barriers to entry in learning blockchain technology. This is achieved implicitly in
-
-
 Devcash’s earning and spending structure. It encourages individuals to take their education and
 involvement to the next level, whatever that may look like for them.
+
+**Earn Devcash**
+
+Developers can earn DevCash by:
+
+```
+● Participating in our community. Answering questions on the forum (under active development)
+and being voted the most useful response
+● Posting bounties
+● Completing bounties
+● Hosting meetups
+● Attending meetups
+```
 
 Unique utilities or discounts can be made available to those who have earned a reputation on the
 network. The value of Devcash may increase for those with higher reputations. Therefore, Devcash’s
@@ -222,18 +222,6 @@ once the request has been fulfilled.
 Some bounty issuers may not want to share their project details publicly for various reasons. In that
 case, bounties can be set to private.
 
-**Earn Devcash**
-
-Developers can earn DevCash by:
-
-```
-● Participating in our community. Answering questions on the forum (under active development)
-and being voted the most useful response
-● Posting bounties
-● Completing bounties
-● Hosting meetups
-● Attending meetups
-```
 ### Standards Track Adherence
 
 In many standards track documents several words are used to signify the requirements in the
@@ -241,18 +229,18 @@ specification. These words are often capitalized. This document defines such wor
 be interpreted only on the Devcash Bounty Marketplace. The mechanism of this interpretation is
 enforced by the flow of the user experience.
 
-The key words "MUST", "REQUIRED", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and
-"OPTIONAL" are to be interpreted as described:
+The key words **"MUST"**, **"REQUIRED"**, **"SHOULD"**, **"SHOULD NOT"**, **"RECOMMENDED"**, **"MAY"**, and
+**"OPTIONAL"** are to be interpreted as described:
 
-**1** ​**. “MUST”** ​/ ​ **"REQUIRED"** ​ means that there is an absolute required condition of the agreement.
+**1** ​ **“MUST”** ​/ ​ **"REQUIRED"** ​ means that there is an absolute required condition of the agreement.
 
-**2** ​**. “SHOULD”** ​means that there is a required condition of the agreement. There might exist valid
+**2** ​ **“SHOULD”** ​means that there is a required condition of the agreement. There might exist valid
 reasons in particular circumstances to ignore this particular item, but this is of no consequence to the
 agreement.
 
-
 **3. "RECOMMENDED"** ​- means that there is a preference for a condition to be fulfilled but not an
 absolute requirement.
+
 **4. “MUST NOT”** ​ means that there is an absolute prohibited requirement as a condition of the
 agreement.
 **5. "NOT RECOMMENDED"** ​means that there may exist valid reasons in particular circumstances
@@ -263,14 +251,10 @@ must be agreed upon by both parties prior to agreeing upon the terms.
 include the item because it appears pertinent to the deliverable, or because it enhances the product
 
 **Guidance in the use of these Imperatives**
-Imperatives of the type defined in this document define the conditional operands of Service Execution
-Agreements of the Devcash Bounty Marketplace.
+Imperatives of the type defined in this document advise on the conditional operands of Service Execution
+Agreements on the Devcash Bounty Marketplace.
 
-Goal:
-
-Description:
-
-Wordbank ​- to be used as a benchmark for providing context
+Wordbank ​- to be used in assisting the user in defining their stated objectives
 
 ```
 ● Add Create Build Make Improve
@@ -293,11 +277,12 @@ Wordbank ​- to be used as a benchmark for providing context
 ```
 ● Complete Provide Solve Support Use Write
 ```
-Example:
 
-Goal: ​Enhance WsProvider To Support Multiple Endpoints for Gitcoin
+An example of this approach to describing stated objectives:
 
-Description: ​Currently ​WsProvider​ only takes one endpoint, and incase this particular node
+**Goal**: ​Enhance WsProvider To Support Multiple Endpoints for Gitcoin
+
+**Description**: ​Currently ​WsProvider​ only takes one endpoint, and incase this particular node
 is down, it will lose access to the network. While it is possible to detect disconnect event and
 create a new api instance, the existing subscription will be lost.
 
@@ -317,15 +302,12 @@ Write using ​web3.js​ library
 Create with ​socket.io
 
 ##### MUST NOT
-
 Use ​a client and server side transport API based on ​WebRTC​ & ​WebSocket
 
 ##### NOT RECOMMENDED
-
 Complete Websocket server written in C
 
 ##### MAY/OPTIONAL
-
 Implement ​websocket-as-promised​ - Promise-based W3C WebSocket wrapper: allows to
 use promises when connecting, disconnecting and messaging with WebSocket server
 
@@ -467,14 +449,13 @@ interface to replace Torus Wallet confirmations via pop ups.
 ```
 ● Share on twitter prompt after posting or hunting a bounty.
 ```
-#### ● Export CSV function to allow users to get a complete copy of their transaction
-
-#### history on the platform.
-
+```
+● Export CSV function to allow users to get a complete copy of their transaction history on the platform.
+```
 ```
 ● Improvements to Home Page. Additional info re: using the platform
-○ 4 animation user story like on paypal.com landing
-○ Add logos of our partners at the bottom of Home Page
+● 4 animation user story like on paypal.com landing
+● Add logos of our partners at the bottom of Home Page
 ```
 ```
 ● Ability to switch wallets easily, this will sign you out of your current wallet and prompt
@@ -490,15 +471,15 @@ most of the available space on the user interface and include two panels(like a 
 The left panel will include the submission details. Right panel allows you to type in
 submission response
 ```
-#### ● Creation of Widget for Devcash Bounty Platform - ​ within 3 months
-
+```
+● Creation of Widget for Devcash Bounty Platform - ​ within 3 months
+```
 ```
 See:​https://vuidget.danajanoskova.sk/
 https://github.com/DJanoskova/Vuidget
 a) Widget can be paired to an ethereum address(the one that the third party is
 posting bounties with)
 ```
-
 ```
 b) Displays all available bounties by the poster. It can be "hunted" directly on website
 of the 3rd party. Bounties can be reviewed and submissions can be made. Bounty
@@ -506,7 +487,9 @@ and submissions status, confirmation, approval can all be seen within the widget
 The point being that Bounty Creation and Management can be securely managed
 outside of the marketplace.
 ```
-#### Back End Development
+```
+
+### Back End Development
 
 ```
 ● Making Native Modules “Less Complicated” by writing Web Assembly Modules and
@@ -516,10 +499,8 @@ Runtime. - ​ within next 3 months
 ```
 ● Implement an actor model allowing webassembly functions to spawn other functions
 and send data to each other, and have each function (a webassembly binary) safely
-sandboxed and allow for multi-tenancy.
+sandboxed and allow for multi-tenancy. ​ within next 3 months
 ```
-- ​ **within next 3 months**
-
 ```
 ● Developing a DappNode package - ​ within next 3 months
 ```
@@ -535,6 +516,7 @@ experience on a project that is similar.
 See:​https://towardsdatascience.com/github-recommender-system-python-c8ff64dc
 f4​ ​ ​- ​ within next 6 months
 ```
+
 #### Layer 2 scaling solution - Evaluation
 
 ```
@@ -550,5 +532,6 @@ Ethereum in Solidity. ​ ​- ​ within next 6 months
 ● Matic Network - Strong Option, ready for production, but not as powerful as ZkSync.
 Notes: Adapted version of Plasma framework that provides a solution for faster and
 extremely low-cost transactions with finality on the main chain(ethereum).
-```
-- ​ **within next 3 months**
+```​ **within next 3 months**
+
+- 
